@@ -1,0 +1,11 @@
+node_modules
+build
+npm-debug.log
+.DS_Store
+*.DS_Store
+.idea
+debug.log
+vendor
+phpcs-report.txt
+.phpunit.result.cache
+composer.lock
